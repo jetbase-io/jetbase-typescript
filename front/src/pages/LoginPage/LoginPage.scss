@@ -1,0 +1,15 @@
+.login {
+  &-block {
+    width: 100%;
+    max-width: 300px;
+  }
+  &-input {
+    margin-bottom: 16px;
+    &:last-of-type {
+      margin-bottom: 32px;
+    }
+  }
+  &-btn-group {
+    text-align: center;
+  }
+}

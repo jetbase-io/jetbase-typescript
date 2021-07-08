@@ -1,0 +1,1 @@
+insert into users (id,username,password,salt,deleted) values('0edbba74-e84b-428a-9514-e8e35aeb4122','admin','$2b$10$fdmtbc4cHxFI47Ur/UHwOub9SU9fcwdhcR7oM3quixehmglhJU5oW','$2b$10$fdmtbc4cHxFI47Ur/UHwOu',false);
